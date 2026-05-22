@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+**/venv/
+**/env/
+
+# Environment variables - NEVER push keys
+.env
+*.env
+
+# ChromaDB local data
+**/chroma_db/
+
+# Uploads folder
+**/uploads/
+
+# Test outputs
+**/test_results.json
+
+# VS Code
+.vscode/
+
+# Roo Code
+.roo/
+.rooignore
+
+# Qodo
+.qodo/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Render
+*.pyc

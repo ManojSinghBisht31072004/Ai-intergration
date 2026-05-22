@@ -1,0 +1,111 @@
+{
+    "run_timestamp": "2026-05-18 12:58:43",
+    "summary": {
+        "total": 20,
+        "success": 19,
+        "failed": 1,
+        "success_rate": "95.0%"
+    },
+    "tickets": [
+        {
+            "ticket_num": 1,
+            "status": "success",
+            "category": "bug"
+        },
+        {
+            "ticket_num": 2,
+            "status": "success",
+            "category": "bug"
+        },
+        {
+            "ticket_num": 3,
+            "status": "success",
+            "category": "bug"
+        },
+        {
+            "ticket_num": 4,
+            "status": "success",
+            "category": "bug"
+        },
+        {
+            "ticket_num": 5,
+            "status": "success",
+            "category": "bug"
+        },
+        {
+            "ticket_num": 6,
+            "status": "success",
+            "category": "bug"
+        },
+        {
+            "ticket_num": 7,
+            "status": "success",
+            "category": "bug"
+        },
+        {
+            "ticket_num": 8,
+            "status": "success",
+            "category": "feature_request"
+        },
+        {
+            "ticket_num": 9,
+            "status": "success",
+            "category": "feature_request"
+        },
+        {
+            "ticket_num": 10,
+            "status": "success",
+            "category": "feature_request"
+        },
+        {
+            "ticket_num": 11,
+            "status": "success",
+            "category": "feature_request"
+        },
+        {
+            "ticket_num": 12,
+            "status": "success",
+            "category": "feature_request"
+        },
+        {
+            "ticket_num": 13,
+            "status": "success",
+            "category": "feature_request"
+        },
+        {
+            "ticket_num": 14,
+            "status": "success",
+            "category": "bug"
+        },
+        {
+            "ticket_num": 15,
+            "status": "success",
+            "category": "bug"
+        },
+        {
+            "ticket_num": 16,
+            "status": "success",
+            "category": "bug"
+        },
+        {
+            "ticket_num": 17,
+            "status": "success",
+            "category": "feature_request"
+        },
+        {
+            "ticket_num": 18,
+            "status": "success",
+            "category": "feature_request"
+        },
+        {
+            "ticket_num": 19,
+            "status": "success",
+            "category": "bug"
+        },
+        {
+            "ticket_num": 20,
+            "status": "failed",
+            "error": "Expecting value: line 1 column 1 (char 0)"
+        }
+    ]
+}

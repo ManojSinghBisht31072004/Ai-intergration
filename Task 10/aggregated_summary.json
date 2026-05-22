@@ -1,0 +1,18 @@
+{
+  "llama-3.3-70b-versatile": {
+    "total_requests": 12,
+    "avg_latency_ms": 1072.89,
+    "avg_input_tokens": 48.0,
+    "avg_output_tokens": 274.42,
+    "avg_cost_usd": 0.00024511,
+    "total_cost_usd": 0.002941
+  },
+  "llama-3.1-8b-instant": {
+    "total_requests": 12,
+    "avg_latency_ms": 664.01,
+    "avg_input_tokens": 48.0,
+    "avg_output_tokens": 281.25,
+    "avg_cost_usd": 2.49e-05,
+    "total_cost_usd": 0.000299
+  }
+}

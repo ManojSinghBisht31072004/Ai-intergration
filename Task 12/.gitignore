@@ -1,0 +1,6 @@
+.env
+.env
+__pycache__/
+*.pyc
+test_results.json
+"C:\Users\hp\Downloads\Data-science-docs.pdf"

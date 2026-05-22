@@ -1,0 +1,73 @@
+[
+  {
+    "prompt": "What is 2 to the power of 15?",
+    "answer": "The result of 2 to the power of 15 is 32768.",
+    "tools_used": [
+      "calculator"
+    ]
+  },
+  {
+    "prompt": "What is today's date?",
+    "answer": "Tuesday, May 19, 2026",
+    "tools_used": [
+      "none \u2014 answered directly"
+    ]
+  },
+  {
+    "prompt": "Convert 100 km to miles",
+    "answer": "The conversion of 100 km to miles is 62.1371 miles.",
+    "tools_used": [
+      "unit_converter"
+    ]
+  },
+  {
+    "prompt": "If I have 8.5 kg of flour, how many pounds is that?",
+    "answer": "You have 18.74 pounds of flour.",
+    "tools_used": [
+      "unit_converter"
+    ]
+  },
+  {
+    "prompt": "What is the square root of 1764?",
+    "answer": "The square root of 1764 is 42.0.",
+    "tools_used": [
+      "calculator",
+      "calculator"
+    ]
+  },
+  {
+    "prompt": "What is the capital of France?",
+    "answer": "The capital of France is Paris.",
+    "tools_used": [
+      "none \u2014 answered directly"
+    ]
+  },
+  {
+    "prompt": "Explain what photosynthesis is in simple terms",
+    "answer": "Photosynthesis is the process by which plants, algae, and some bacteria use sunlight, water, and carbon dioxide to produce food (glucose) and oxygen. This process is essential for life on Earth as it provides energy and organic compounds for plants to grow and develop, and also releases oxygen into the atmosphere for animals and humans to breathe.",
+    "tools_used": [
+      "none \u2014 answered directly"
+    ]
+  },
+  {
+    "prompt": "What are the three laws of motion?",
+    "answer": "The three laws of motion, also known as Newton's laws, are:\n\n1. The First Law (Law of Inertia): An object at rest will remain at rest, and an object in motion will continue to move with a constant velocity, unless acted upon by an external force.\n2. The Second Law (Law of Acceleration): The force applied to an object is equal to the mass of the object multiplied by its acceleration (F = ma).\n3. The Third Law (Law of Action and Reaction): For every action, there is an equal and opposite reaction. When two objects interact, they apply forces to one another that are equal in magnitude and opposite in direction.",
+    "tools_used": [
+      "none \u2014 answered directly"
+    ]
+  },
+  {
+    "prompt": "Who wrote the novel 1984?",
+    "answer": "The novel \"1984\" was written by George Orwell.",
+    "tools_used": [
+      "none \u2014 answered directly"
+    ]
+  },
+  {
+    "prompt": "What does HTTP stand for?",
+    "answer": "HTTP stands for HyperText Transfer Protocol.",
+    "tools_used": [
+      "none \u2014 answered directly"
+    ]
+  }
+]

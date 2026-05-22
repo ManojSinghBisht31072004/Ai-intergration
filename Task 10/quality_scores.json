@@ -1,0 +1,218 @@
+[
+  {
+    "prompt_id": 1,
+    "category": "reasoning",
+    "model": "llama-3.3-70b-versatile",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 2481
+  },
+  {
+    "prompt_id": 1,
+    "category": "reasoning",
+    "model": "llama-3.1-8b-instant",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 2427
+  },
+  {
+    "prompt_id": 2,
+    "category": "reasoning",
+    "model": "llama-3.3-70b-versatile",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 2288
+  },
+  {
+    "prompt_id": 2,
+    "category": "reasoning",
+    "model": "llama-3.1-8b-instant",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 1776
+  },
+  {
+    "prompt_id": 3,
+    "category": "reasoning",
+    "model": "llama-3.3-70b-versatile",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 3441
+  },
+  {
+    "prompt_id": 3,
+    "category": "reasoning",
+    "model": "llama-3.1-8b-instant",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 3137
+  },
+  {
+    "prompt_id": 4,
+    "category": "code",
+    "model": "llama-3.3-70b-versatile",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 1342
+  },
+  {
+    "prompt_id": 4,
+    "category": "code",
+    "model": "llama-3.1-8b-instant",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 1935
+  },
+  {
+    "prompt_id": 5,
+    "category": "code",
+    "model": "llama-3.3-70b-versatile",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 1582
+  },
+  {
+    "prompt_id": 5,
+    "category": "code",
+    "model": "llama-3.1-8b-instant",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 1147
+  },
+  {
+    "prompt_id": 6,
+    "category": "code",
+    "model": "llama-3.3-70b-versatile",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 1712
+  },
+  {
+    "prompt_id": 6,
+    "category": "code",
+    "model": "llama-3.1-8b-instant",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 1268
+  },
+  {
+    "prompt_id": 7,
+    "category": "summarization",
+    "model": "llama-3.3-70b-versatile",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 1076
+  },
+  {
+    "prompt_id": 7,
+    "category": "summarization",
+    "model": "llama-3.1-8b-instant",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 1223
+  },
+  {
+    "prompt_id": 8,
+    "category": "summarization",
+    "model": "llama-3.3-70b-versatile",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 465
+  },
+  {
+    "prompt_id": 8,
+    "category": "summarization",
+    "model": "llama-3.1-8b-instant",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 415
+  },
+  {
+    "prompt_id": 9,
+    "category": "summarization",
+    "model": "llama-3.3-70b-versatile",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 869
+  },
+  {
+    "prompt_id": 9,
+    "category": "summarization",
+    "model": "llama-3.1-8b-instant",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 1951
+  },
+  {
+    "prompt_id": 10,
+    "category": "creative",
+    "model": "llama-3.3-70b-versatile",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 155
+  },
+  {
+    "prompt_id": 10,
+    "category": "creative",
+    "model": "llama-3.1-8b-instant",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 153
+  },
+  {
+    "prompt_id": 11,
+    "category": "creative",
+    "model": "llama-3.3-70b-versatile",
+    "score": 0,
+    "length_ok": false,
+    "keyword_ok": true,
+    "response_len": 27
+  },
+  {
+    "prompt_id": 11,
+    "category": "creative",
+    "model": "llama-3.1-8b-instant",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 275
+  },
+  {
+    "prompt_id": 12,
+    "category": "creative",
+    "model": "llama-3.3-70b-versatile",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 486
+  },
+  {
+    "prompt_id": 12,
+    "category": "creative",
+    "model": "llama-3.1-8b-instant",
+    "score": 1,
+    "length_ok": true,
+    "keyword_ok": true,
+    "response_len": 477
+  }
+]
