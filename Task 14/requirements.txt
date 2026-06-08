@@ -1,0 +1,7 @@
+pytest
+groq
+PyPDF2
+python-docx
+scikit-learn
+numpy
+python-dotenv

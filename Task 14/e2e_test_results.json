@@ -1,0 +1,42 @@
+{
+    "timestamp": "2026-06-08T07:18:22.080715Z",
+    "upload_latency_seconds": 0.5,
+    "test_results": [
+        {
+            "query": "What is the standard SLA for critical system failures?",
+            "response": "Mocked response",
+            "latency_seconds": 1.5,
+            "metrics": {
+                "context": [
+                    "Context 1",
+                    "Context 2"
+                ],
+                "usage_tokens": 125
+            }
+        },
+        {
+            "query": "How do we configure the secondary document parsing library?",
+            "response": "Mocked response",
+            "latency_seconds": 1.5,
+            "metrics": {
+                "context": [
+                    "Context 1",
+                    "Context 2"
+                ],
+                "usage_tokens": 125
+            }
+        },
+        {
+            "query": "What are the mandatory data encryption protocols?",
+            "response": "Mocked response",
+            "latency_seconds": 1.5,
+            "metrics": {
+                "context": [
+                    "Context 1",
+                    "Context 2"
+                ],
+                "usage_tokens": 125
+            }
+        }
+    ]
+}

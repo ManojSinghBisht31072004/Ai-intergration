@@ -1,0 +1,5 @@
+# Environment variables (Do NOT push API keys!)
+.env
+
+# Python cache
+__pycache__/
